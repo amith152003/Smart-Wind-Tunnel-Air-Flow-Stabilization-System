@@ -164,8 +164,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Contact
 For any queries or contributions:
-- **Amith Mathew Titus**: [Email](amithmathewtitus@outlook.com)
-- **Anugraha M.**: [Email](anugrahamahesh28@gmail.com)
+- **Amith Mathew Titus**: amithmathewtitus@outlook.com
+- **Anugraha M.**: anugrahamahesh28@gmail.com
 
 ---
 
