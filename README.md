@@ -60,6 +60,22 @@ The **Wind Tunnel Smart Air Flow Stabilization System** is designed to ensure pr
 
 ---
 
+## Schematics and Hardware Setup
+
+### **Schematic 1: System Simulation**
+This schematic shows the simulation setup of the flex sensor, fan, motor driver, and microcontroller.
+
+![Simulation System Setup (TinkerCad)](images/Circuit_TinkerCad.png)
+
+---
+
+### **Schematic 2: Final Schematic**
+This is the final Schematic diagram.
+
+![Final Schematic](images/Schematic_Wind-Tunnel-Smart-Air-Flow-Stabilization-System_2024-12-17.png)
+
+---
+
 ## Control Algorithm
 The **PID Control Algorithm** operates as follows:
 1. Continuously read the flex sensor output (flap angle).
