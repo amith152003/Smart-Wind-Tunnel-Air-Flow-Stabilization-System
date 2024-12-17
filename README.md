@@ -76,6 +76,18 @@ This is the final Schematic diagram.
 
 ---
 
+### **Hardware Setup 1: Testing Circuit without a load**
+
+![Final Schematic](images/20241215_141238 (1).jpg)
+
+---
+
+### **Hardware Setup 2: Testing Circuit with a load**
+
+![Final Schematic](images/20241215_141238 (1).jpg)
+
+---
+
 ## Control Algorithm
 The **PID Control Algorithm** operates as follows:
 1. Continuously read the flex sensor output (flap angle).
