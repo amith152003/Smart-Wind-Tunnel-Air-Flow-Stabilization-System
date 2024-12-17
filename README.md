@@ -84,7 +84,7 @@ This was the calibration (PID tunning) phase of the system.
 ---
 
 ### **Hardware Setup 2: Testing Circuit with a load**
-The whole system was tested rigorously and it worked flawlessly. The final system was test by loading the flap with small weights and it was working perfectly.
+The whole system was tested rigorously by loading the flap with small weights to check if the PID loop worked.
 
 ![The Final Hardware Setup](images/20241215_150930.jpg)
 
