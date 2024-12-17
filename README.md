@@ -148,7 +148,7 @@ The system successfully stabilizes airflow within the wind tunnel, ensuring the 
 ### Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/amith152003/Smart-Wind-Tunnel-Air-Flow-Stabilization-System.git
    ```
 2. Install dependencies and upload the code to ATMEGA328.
 3. Assemble the hardware components as per the schematic.
