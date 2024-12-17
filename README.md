@@ -84,7 +84,7 @@ This is the final Schematic diagram.
 
 ### **Hardware Setup 2: Testing Circuit with a load**
 
-![Final Schematic](images/20241215_141238 (1).jpg)
+![Final Schematic](images/20241215_150930.jpg)
 
 ---
 
