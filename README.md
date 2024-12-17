@@ -77,14 +77,16 @@ This is the final Schematic diagram.
 ---
 
 ### **Hardware Setup 1: Testing Circuit without a load**
+This was the calibration (PID tunning) phase of the system.
 
-![Final Schematic](images/20241215_141238 (1).jpg)
+![Hardware Setup test](images/20241215_141238_1.jpg)
 
 ---
 
 ### **Hardware Setup 2: Testing Circuit with a load**
+The whole system was tested rigorously and it worked flawlessly. The final system was test by loading the flap with small weights and it was working perfectly.
 
-![Final Schematic](images/20241215_150930.jpg)
+![The Final Hardware Setup](images/20241215_150930.jpg)
 
 ---
 
