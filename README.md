@@ -142,7 +142,7 @@ The system successfully stabilizes airflow within the wind tunnel, ensuring the 
 
 ## Getting Started
 ### Requirements
-- **PlatformIO**
+- **PlatformIO** (An extension in Visual Studio Code)
 - Basic electronics components as listed above
 
 ### Instructions
